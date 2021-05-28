@@ -1,8 +1,8 @@
 Here are few comments on each questions :
 
 Build Process: 
-- Application is built using Go programming langiage and JSON RPC to communitcate
-- To build just create use Go environment (~/go/src/) and get this ev folder in it.
+- Application is built using Go programming language and JSON RPC used as communitcation mechanism
+- To build just create Go environment (~/go/src/) and get this ev folder in it.
 - To build app run below script
 ./build.sh
 
