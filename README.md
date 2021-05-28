@@ -16,7 +16,8 @@ Go to work directory
 For Server: 
  ./ev server 
 
-For Client(Vehicle Instance): 
+For Client(Vehicle Instance):
+
  ./ev client <Optional ServerIP:8009>
 
 For CLI: 
